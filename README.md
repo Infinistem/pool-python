@@ -1,2 +1,4 @@
-# tanks-game
-simple game like diep.io
+# pool-game
+Pool / billiards game in python!
+<img src="Images/thumbnail.png"/>
+
